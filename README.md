@@ -1,4 +1,4 @@
-# TRIFT ME (TEAM PROJECT)
+# THRIFT ME (TEAM PROJECT)
 C2C e-commerce store made with MEVN Stack. Authentication functionality with (JWT). 
 Styling with Tailwind.css
 
